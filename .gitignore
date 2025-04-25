@@ -1,0 +1,13 @@
+*
+
+!.gitignore
+!docs/
+!docs/**
+
+.DS_Store
+Thumbs.db
+
+*.tmp
+*.bak
+*.old
+*.swp
